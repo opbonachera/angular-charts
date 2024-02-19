@@ -1,0 +1,9 @@
+
+p-chart{
+    display: flex;
+    width: 20rem;
+    height: 20rem;
+    margin: 1rem;
+    align-items: center;
+    justify-content: center;
+}
